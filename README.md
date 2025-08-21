@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babluv623
+- 👋 Hi, I’m Bablu
 - 👀 I’m interested in MERN stack web development.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on FRONT-END PROJECT.
